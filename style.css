@@ -1,6 +1,5 @@
 ﻿body {
     font-family: Roboto;
-    background-color: #1F2937;
 }
 
 .Up_mid_page {
@@ -8,7 +7,7 @@
 }
 
 .Top {
-    /*background-color: #1F2937;*/
+    background-color: #1F2937;
     display: flex;
     color: #F9F1F8;
     flex-wrap: wrap;
